@@ -1,0 +1,31 @@
+<html>
+<head>
+  <title>
+    Linking or the whole point of the World Wide Interwebz
+  </title>
+
+  <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Open+Sans+Condensed:300" rel="stylesheet">
+  <link href='css/style.css' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+  <h1>About Us</h1>
+  <div id="nav"><a href="index.html">Home</a> | <a href="page2.html">page two</a> </div>
+  <h4> Info for Mentors </h4>
+  <div>
+  <p>The #IAmAWomanInSTEM initiative launched at the University of Kentucky (UK) in the winter of 2015 with funding originally from the American Association of University Women.  The goal of this initiative is to increase graduation rates by women in STEM-related majors/minors at the postsecondary level.  This improvement needs to happen in all our colleges and universities, but we are starting locally and plan to go statewide by 2017. Partnering with the MillionWomenMentors-KY chapter (launched in September 2016 with Lt. Governor Janean Hampton as honorary chair), we seek to scale up the number of mentors available to undergraduate women.
+
+At the core of the initiative is a leadership effort by young college-going women in an awareness campaign by and for undergraduates (via a shared hashtag for social media - #IAmAWomanInSTEM). Crucial to this leadership effort’s success is our mentoring program connecting undergraduate females who are in STEM majors/minors with female faculty/staff members and women in business/industry with STEM backgrounds. The #IAmAWomanInSTEM initiative should build on existing retention and student success initiatives in postsecondary institutions and directly address strategic objectives on diversity, high-impact educational practices, and civic engagement. We seek additional partners to support these efforts, both financially and in volunteer hours.</p>
+    <div>
+      <h4> Mentor Responsibilities</h4>
+      <div>
+  <p>#IAmAWomanInSTEM asks for the mentor volunteers to meet with their assigned student ambassadors at times that are determined to be best for each other (aiming for a total of 20 hours contact time per calendar year). In addition, we include the mentors in a private Googlegroup where general announcements are made by the leadership team (perhaps one or two messages per month). We also encourage the mentors to participate in our social media accounts (see icons in bottom left nav bar). Student ambassadors have used their personal social media accounts, and in-person presentations, to launch their own campaigns to support women in STEM. Ideally, these projects are supported and guided by their mentors. See more ideas about #IAmAWomanInSTEM mentoring in the suggestions handout</p>
+  <img src="images/letter_b.jpg" class="move_me_left" />
+        <div>
+          <h4> Info for Student Ambassadors </h4>
+  <p>We welcome all faculty to serve as instructors for an experiential education course for #IAmAWomanInSTEM student ambassadors - and encourage our students to send a message to iamawomaninstem@gmail.com to find out more about setting up an experiential education course and earn academic credit for their work on this initiative.
+
+In Spring 2016, 28 #IAmAWomanInSTEM student ambassadors enrolled in a leadership and service-learning course (UK300, 2 credit hours - download the Spr2016 syllabus here). They had opportunities to engage with University and community members in solving authentic community-identified problems and successes associated with gender in STEM-related careers, and to reflect on these experiences with peers and the course co-facilitators. Of the 160+ student ambassadors in Spring 2016, these students below enrolled in the UK300 service-learning and leadership course and produced a project to launch the #IAmAWomanInSTEM initiative</p>
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+<h1> Menu </h1>
+<html>
+ <head>
+   <title>
+     Box Model
+   </title>
+   <style>
+     div{
+       margin-top: 10px;
+       /*   border: 5px solid black; shorthand for below */
+       border-color: black;
+       border-style: solid;
+       border-width: 2px;
+     }
+     .box-one{
+       padding:10px;
+       margin-right: 100px;
+     }
+     .box-two{
+       width:500px;
+       margin-left: 0;
+       margin-right: auto;
+     .starting-text{
+       font-weight: bold;
+       font-size: 20px;
+
+     }
+     .box-three{
+       border-color: red;
+       margin-left: 500px;
+     }
+
+     }
+     .box-three .starting-text{
+       margin-left:10px;
+     }
+   </style>
+   <!-- Definitely Check out http://www.w3schools.com/css/css_boxmodel.asp -->
+ </head>
+ <body>
+   <div class="box-one">
+     <span class="starting-text">Resources for Members:</span> An important component of the #IAmAWomanInSTEM initiative is gathering resources that are research-based and available via the Internet as open access learning objects for sharing and reuse.
+   </div>
+
+   <div class="box-two">
+     <span class="starting-text">Lorem ipsum</span> An important component of the initiative is for our student ambassadors to take on leadership roles. There are no formal requirements but all who signed up to be a part of the initiative are expected to come up with their own way of providing a leadership role in raising awareness on campus and beyond regarding the issues involved in persisting and succeeding as a woman in STEM fields. There are important ways by which to examine the kinds of leadership efforts undertaken with #IAmAWomanInSTEM service projects; and, we rely on the AAC&U's Civic Engagement VALUE Rubric (download .pdf here) to evaluate whether a contribution to the initiative enriches both personally and publicly and is socially beneficial to our community.
+
+Check out these amazing activities underway in 2017-18:
+
+#IAmAWomanInSTEM @ UK student organization led by #IAmAWomanInSTEM student ambassadors Ndeye Thiaw, Mollye Malone and Heather Campbell. This group of leaders will be applying for funding, attending UK student organization orientations, managing events, and making sure the association is active and on the right track. See more here.
+#IAmAWomanInSTEM information table at several University events - August: K-Week Ruckus, GWS Graduate Student Conference; September: Preparing Science Professionals Symposium (American Society for Biochemistry and Molecular Biology)
+"STEM Woman of the Week" campaign led by #IAmAWomanInSTEM student ambassador Hannah Thompson. See more here.
+UK STEM Groups gatherings led by Heather Campbell and Kayla Kuhfeldt. See more on the STEM Groups at UK here.
+Semper Crescente (Always Growing) K12 Outreach workshops led by Tsage Douglas together with Dr. Margaret Mohr-Schroeder and Lt. Gov. Janean Hampton with NSF-EPSCOR funding.
+FemSTEMpowerment gatherings and field trips led by Taylor Ford.
+Designing STEM Spaces for Teaching, Encouragement, and Mentorship by Cameron Ginter
+An Autobiographical blog by Katie Kloska reflecting on the ideas from the UK300 Service-Learning class (in a section under the leadership of graduate student Brittany Rice) in her life today. See more here.
+ECO 391 section in Fall 2017 taught by Amanda McCullough (rising 4th year Ph.D. in Economics) with assignments on statistical analysis of issues regarding gender and STEM-related career pathways.
+   </div>
+
+   <div class="box-three">
+     <span class="starting-text">Lorem ipsum</span> dolor sit amet, consectetur adipiscing elit. Donec efficitur pretium dui in rutrum. In et porta velit. Phasellus vel justo in justo semper sagittis. Integer ac pellentesque magna. Quisque sodales sapien ut neque porttitor finibus. Morbi rhoncus lacus vel nunc elementum tempor. Duis quam nisl, ullamcorper et ante et, sagittis porttitor mauris. Fusce sollicitudin arcu est, vel maximus ex congue ut. Morbi in convallis neque. Fusce pellentesque pharetra erat, quis placerat nulla convallis sit amet.
+   </div>
+
+
+ </body>
+</html>
